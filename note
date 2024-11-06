@@ -1,0 +1,3 @@
+train: /content/lung-radiography-final-2/train/images
+val: /content/lung-radiography-final-2/valid/images
+test: /content/lung-radiography-final-2/test/images
